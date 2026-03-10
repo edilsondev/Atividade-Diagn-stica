@@ -1,1 +1,1 @@
-# Atividade-Diagn-stica
+# Atividade-diagnostica
